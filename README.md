@@ -1,4 +1,4 @@
-#GitHub测试分支
+#The Dynamo Primer
 ##First Edition V1.3
 
 ![Dynamo Logo](images/dynamo_logo_dark-trim.png)
